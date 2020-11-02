@@ -1,0 +1,5 @@
+/Users/nikhil.yadav/Projects/brackeyCsharp1/brackeyCsharp1/bin/Debug/brackeyCsharp1.exe
+/Users/nikhil.yadav/Projects/brackeyCsharp1/brackeyCsharp1/bin/Debug/brackeyCsharp1.pdb
+/Users/nikhil.yadav/Projects/brackeyCsharp1/brackeyCsharp1/obj/Debug/brackeyCsharp1.csprojAssemblyReference.cache
+/Users/nikhil.yadav/Projects/brackeyCsharp1/brackeyCsharp1/obj/Debug/brackeyCsharp1.exe
+/Users/nikhil.yadav/Projects/brackeyCsharp1/brackeyCsharp1/obj/Debug/brackeyCsharp1.pdb

@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{AAE120D0-7B64-4D54-A82C-E8A8F76B63E3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="brackeyCsharp1/Program.cs">
+    <Files>
+      <File FileName="brackeyCsharp1/Program.cs" Line="200" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="brackeyCsharp1" expanded="True">
+            <Node name="brackeyCsharp1" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.brackeyCsharp1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
